@@ -4792,6 +4792,10 @@ textarea.form-control-lg {
   }
 }
 
+li {
+  color: rgb(95, 95, 95);
+}
+
 .list-group {
   --bs-list-group-color: #212529;
   --bs-list-group-bg: #fff;
