@@ -9,7 +9,8 @@ Link: https://SMH17.github.io/
 ```
 The directory structure is as follows:
 
-```
+```.
+.
 ├── contents
 └── static
     ├── assets
