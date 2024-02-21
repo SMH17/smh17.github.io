@@ -1,5 +1,5 @@
 
-Software Engineer, Software Software Solution Designer, Tech Enthusiast.
+Software Engineer, Software Solution Designer, Tech Enthusiast. Welcome to my GitHub Page for a super synthetic summary. Check the [website section](https://smh17.github.io/#websites) for more.
 
 #### Education
 Graduated from UNICAL in Computer Engineering (master's degree M.Sc.Eng + B.Sc.Eng with focus on network applications). 
