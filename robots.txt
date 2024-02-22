@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /test/
+
+Sitemap: https://smh17.github.io/sitemap.xml
