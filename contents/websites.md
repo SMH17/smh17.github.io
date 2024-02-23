@@ -1,4 +1,4 @@
 
-- <strong><strong>[Personal Website](https://silviomarano.tk)</strong></strong>, My personal website and blog.
+- [Personal Website](https://silviomarano.tk), My personal website and blog.
 
-- <strong><strong>[SMH17 Website](https://smh17.tk)</strong></strong>, My official dev website.
+- [SMH17 Website](https://smh17.tk), My official dev website.
